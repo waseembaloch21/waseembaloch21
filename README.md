@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waseembaloch21" alt="waseembaloch21" /></a> </p>
 
+   <img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+    
 - 🔭 I’m currently working on [Next.js and express.js](https://findfriend.vercel.app/)
 
 - 🌱 I’m currently learning **Web And Development**
