@@ -3,7 +3,7 @@
  <img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="New Banner" width="1000px" height="300px" style="border: 2px solid #000;"/>
 
 <h1 align="center">Hey, I'm Waseem Baloch 👋</h1>
-<h3 align="center">🎓 12th-grade student at Premier College 💻 Aspiring Full Stack Developer 🌐 Learning Web and Mobile App Development at Saylani Mass IT Training Center</h3>
+<h3 align="center">🎓 13th-grade student at Premier College 💻 Aspiring Full Stack Developer 🌐 Learning Web and Mobile App Development at Saylani Mass IT Training Center</h3>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseembaloch21&label=Profile%20views&color=0e75b6&style=flat" alt="waseembaloch21" /> </p>
