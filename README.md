@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #000; padding: 10px; margin: 20px;">
 
- <img src="https://img.pikbest.com/backgrounds/20190726/blue-business-technology-gif-background_2758561.jpg!sw800" alt="New Banner" width="1000px" height="300px" style="border: 2px solid #000;"/>
+ <img src="C:\Users\user\Downloads\Navy Blue Geometric Technology LinkedIn Banner.png" alt="New Banner" width="1000px" height="300px" style="border: 2px solid #000;"/>
 
 <h1 align="center">Hey, I'm Waseem Baloch 👋</h1>
 <h3 align="center">🎓  BS-IT student at BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI KARACHI 💻 Aspiring Full Stack Developer 🌐 Learning Web and Mobile App Development at Saylani Mass IT Training Center</h3>
