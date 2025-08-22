@@ -3,20 +3,14 @@
  <img src=Banner.png alt="New Banner" width="1000px" height="300px" style="border: 2px solid #000;"/>
 
 <h1 align="center">Hey, I'm Waseem Baloch 👋</h1>
-<h3 align="center">🎓  BS-IT student at BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI KARACHI 💻 Aspiring Full Stack Developer 🌐 Learning Web and Mobile App Development at Saylani Mass IT Training Center</h3>
+<h3 align="center">🎓 I'm a Student at BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI KARACHI for BS-IT 💻 Aspiring Full Stack Developer 🌐 Learning Web and Mobile App Development at Saylani Mass IT Training Center</h3>
 </div>
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waseembaloch21&label=Profile%20views&color=0e75b6&style=flat" alt="waseembaloch21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waseembaloch21" alt="waseembaloch21" /></a> </p>
-
-   <img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
     
 - 🔭 I’m currently working on [Next.js and express.js](https://findfriend.vercel.app/)
 
-- 🌱 I’m currently learning **Web And Development**
+- 🌱 I’m currently learning **AI and Data Science**
 
 - 👯 I’m looking to collaborate on [I believe in the magic of coding and creating. Check out my GitHub repositories to witness the journey and explore the projects I'm working on! Let's code, collaborate, and create together! ✨](https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966)
 
@@ -26,8 +20,10 @@
 
 - 📫 How to reach me **waseemrauf672@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
+- ---
+
+<h3 align="Left">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/waseem-rauf-6076172b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem-rauf-6076172b5" height="30" width="40" /></a>
 </p>
 
@@ -47,6 +43,17 @@
 
 ---
 
+## 🔥 Passion Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [EventApp](https://findfriend.vercel.app/) | The Event App is help to users discover, create, and manage events effortlessly. | Next.js, MongoDB, ShadCn |
+| [TodoApp](https://todo-app-5tad.vercel.app/) | The Todo App provides an intuitive interface for creating, editing, filtering, and managing tasks, making daily planning effortless. | React.js, LocalStorage, CSS |
+| [WeatherApp](https://weather-app-two-phi-91.vercel.app/) | The Weather App provides real-time weather updates for any location worldwide. | React.js, Tailwind CSS |
+
+
+---
+
 ## 📊 GitHub by the Numbers
 
 <p align="center">
@@ -58,7 +65,11 @@
 ---
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=waseembaloch21&label=Profile%20views&color=0e75b6&style=flat" alt="waseembaloch21" /> </p> </p>
+  <img align="center" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+</p> 
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=waseembaloch21&label=Profile%20views&color=0e75b6&style=flat" alt="waseembaloch21" /> </p> 
 
 <p align="center">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Footer Gif" width="100%" height="200px" style="margin-top: 20px;">
