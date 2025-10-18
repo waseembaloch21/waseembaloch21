@@ -3,25 +3,28 @@
  <img src=Banner.png alt="New Banner" width="1000px" height="300px" style="border: 2px solid #000;"/>
 
 <h1 align="center">Hey, I'm Waseem Baloch 👋</h1>
-<h3 align="center">🎓 I'm a Student at BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI KARACHI for BS-IT 💻 Aspiring Full Stack Developer 🌐 Learning Web and Mobile App Development at Saylani Mass IT Training Center</h3>
+<h1 align="center">💻 Full Stack Developer exploring AI & Data Science to build smarter web experiences.</h1>
+
+<p align="center">
+  <strong>🎓 IT Student @ BBSUL | 💻 Full Stack Developer | 🤝 Always Learning & Building</strong>
+</p>
+
 </div>
 
 ---
+
+## 👨‍💻 About Me
+
+I'm **Waseem**, a **Full Stack Developer** passionate about creating responsive and high-performance web apps using **React.js**, **Next.js**, **Node.js**, and **MongoDB**.  
+Currently pursuing **Information technology** at **Benazir Bhutto Shaheed University (BBSUL)** and building projects that make real-world impact.  
+
+- 🌍 Based in Karachi, Pakistan  
+- 🔭 Working on full-stack projects & learning AI  
+- 💬 Ask me about React, Next.js, Node.js, or Tailwind CSS  
+- 📫 Reach me at **waseemrauf672@gmail.com**
+
+---
     
-- 🔭 I’m currently working on [Next.js and express.js](https://findfriend.vercel.app/)
-
-- 🌱 I’m currently learning **AI and Data Science**
-
-- 👯 I’m looking to collaborate on [I believe in the magic of coding and creating. Check out my GitHub repositories to witness the journey and explore the projects I'm working on! Let's code, collaborate, and create together! ✨](https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966)
-
-- 👨‍💻 All of my projects are available at [https://waseem-portfolio1.vercel.app/](https://waseem-portfolio1.vercel.app/)
-
-- 💬 Ask me about **building websites, Application,and about frameworks such as bootstrap, Tailwind CSS, etc.**
-
-- 📫 How to reach me **waseemrauf672@gmail.com**
-
-- ---
-
 <h3 align="Left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/waseem-rauf-6076172b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem-rauf-6076172b5" height="30" width="40" /></a>
@@ -34,10 +37,13 @@
 <div align="center">
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" height="40" />
 
 ### ⚙️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,git,vscode" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,vscode" height="40" />
+
+### 🚀 Learning & Exploring
+<img src="https://skillicons.dev/icons?i=python,ai" height="40" />
 
 </div>
 
