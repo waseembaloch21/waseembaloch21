@@ -63,9 +63,9 @@ Currently pursuing **Information technology** at **Benazir Bhutto Shaheed Univer
 ## 📊 GitHub by the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safey11&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=safey11&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safey11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waseembaloch21&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=waseembaloch21&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseembaloch21&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
