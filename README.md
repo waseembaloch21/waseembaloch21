@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Waseem**, a **Full Stack Developer** passionate about creating responsive and high-performance web apps using **React.js**, **Next.js**, **Node.js**, and **MongoDB**.  
+I'm **Waseem**, a **Full Stack Developer** passionate about creating responsive and high-performance web apps using **React.js**, **Next.js**, **Express.js**, and **MongoDB**.  
 Currently pursuing **Information technology** at **Benazir Bhutto Shaheed University (BBSUL)** and building projects that make real-world impact.  
 
 - 🌍 Based in Karachi, Pakistan  
