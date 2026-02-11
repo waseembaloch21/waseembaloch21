@@ -20,7 +20,7 @@ Currently pursuing **Information technology** at **Benazir Bhutto Shaheed Univer
 
 - 🌍 Based in Karachi, Pakistan  
 - 🔭 Working on full-stack projects & learning AI  
-- 💬 Ask me about React, Next.js, Node.js, or Tailwind CSS  
+- 💬 Ask me about React, Next.js, Express.js, or Tailwind CSS  
 - 📫 Reach me at **waseemrauf672@gmail.com**
 
 ---
